@@ -6,21 +6,24 @@ title: Équipe et rôles
 
 # Équipe et rôles
 
-{: .a_supprimer }
+Notre équipe (ou groupe 13) est composé de trois personnes. Chacune sera donc responsable d'une partie différente parmis :
+- Électronique
+- Programmation
+- Modélisation 3D
+
+<!--
 > Présentez l'équipe et la répartition des rôles, décidée **dès le début** du projet.
 > Un rôle ne veut pas dire « seul autorisé à toucher à ça » : le responsable
 > s'assure que sa partie avance, le backup peut prendre le relais en cas d'absence.
 > Voir [Constituer et organiser son équipe](https://doc.makerspace-amiens.fr/workshops/methodologie-de-projet/concepts/constituer-organiser-equipe/).
-
+-->
 ## Membres
-
-{: .a_modifier }
-> Une ligne par membre. Le compte GitHub permet de relier chacun à ses contributions.
 
 | Membre | Formation | Compte GitHub |
 |---|---|---|
-| Prénom Nom | … | [@pseudo](https://github.com/pseudo) |
-| Prénom Nom | … | [@pseudo](https://github.com/pseudo) |
+| Khenzo_Boisne-Noc-Lony | I2 | [@pseudo](https://github.com/pseudo) |
+| Samuel_Delcroix | I2 | [@pseudo](https://github.com/pseudo) |
+| Emrick Petit | I2 | [@Titep01](https://github.com/Titep01) |
 
 ## Rôles
 

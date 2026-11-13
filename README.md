@@ -1,17 +1,16 @@
-# Nom du projet
+# Projet microcontrôleur - Groupe 13
 
-> [!IMPORTANT]
-> **À modifier** : ce repo a été créé depuis le template de projet du MakerSpace d'Amiens.
-> Remplacez ce README par la présentation de votre projet.
-> Les guides d'utilisation du template sont sur le
-> [site de documentation du MakerSpace](https://doc.makerspace-amiens.fr/workshops/methodologie-de-projet/).
+Ce repo executé dans le cadre de nos cours de microcontrôleur permet de centraliser la documentation, la programmation et les décisions prises lors de ce projet.
 
-Une phrase qui explique ce que fait le projet et pour qui.
+Ce repo est tiré du template du MakerSpace ([template documentation de projet](https://makerspace-amiens.github.io/template-project/))
+[site de documentation du MakerSpace](https://doc.makerspace-amiens.fr/workshops/methodologie-de-projet/).
 
-- **Documentation :** [site du projet](https://makerspace-amiens.github.io/template-project/) (sources dans [`docs/`](docs/))
+
+- **Documentation :** [site du projet](https://makerspace-amiens-2026-27.github.io/Microcontroller2627-Groupe13/) (sources dans [`docs/`](docs/))
 - **Fichiers du projet :** [`project/`](project/) (CAO, électronique, code)
 
 ## Équipe
 
-- Prénom Nom
-- Prénom Nom
+- Khenzo Boisne-Noc-Lony
+- Samuel Delcroix
+- Emrick Petit
