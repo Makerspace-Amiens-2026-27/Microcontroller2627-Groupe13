@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Étudiant 2
+title: Samuel Delcroix
 parent: Journal de bord
 has_children: true
 ---
