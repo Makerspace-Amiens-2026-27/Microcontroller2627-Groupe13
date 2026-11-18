@@ -22,7 +22,7 @@ Notre équipe (ou groupe 13) est composé de trois personnes. Chacune sera donc 
 | Membre | Formation | Compte GitHub |
 |---|---|---|
 | Khenzo_Boisne-Noc-Lony | I2 | [@pseudo](https://github.com/pseudo) |
-| Samuel_Delcroix | I2 | [@pseudo](https://github.com/pseudo) |
+| Samuel_Delcroix | I2 | [@Bomb-07](https://github.com/Bomb-07) |
 | Emrick Petit | I2 | [@Titep01](https://github.com/Titep01) |
 
 ## Rôles
