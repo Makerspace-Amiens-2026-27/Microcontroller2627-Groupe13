@@ -1,5 +1,7 @@
 #include <Arduino.h>
 
+
+
 float i = 0;
 
 void setup()
@@ -11,7 +13,12 @@ void setup()
 void loop()
 {
   i += 0.1;
-  Serial.print("sin:");
+
+  Serial.print(">sin:");
   Serial.println(sin(i));
+
+  Serial.print(">cos:");
+  Serial.println(cos(i));
+
   delay(10);
 }
