@@ -17,7 +17,7 @@ bool justPressed(Button& b) {
     if (level != b.lastRead) {         // le signal bouge : rebond ou vrai changement
         b.lastRead = level;
         b.lastChangeMs = millis();
-    }
+    }   
     if (millis() - b.lastChangeMs > DEBOUNCE_MS && level != b.stableLevel) {
         b.stableLevel = level;         // stable depuis 30 ms : changement confirmé
         return level == PRESSED_LEVEL; // vrai sur l'appui, faux sur le relâchement
